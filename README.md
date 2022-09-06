@@ -1,7 +1,7 @@
-*PIN-PONG
+*PIN-PONG*
 
 
-_RULE:
+_RULE:_
 
 
 1.The first player plays w and s
